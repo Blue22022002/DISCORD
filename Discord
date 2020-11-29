@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+    <div class="hero-bg">
+        <section class="top">
+            <header>
+                <a href="#">Discord</a>
+                <nav>
+                    <ul>
+                        <li><a href="#">Download</a></li>
+                        <li><a href="#">Why Discord?</a></li>
+                        <li><a href="#">Nitro</a></li>
+                        <li><a href="#">Safety</a></li>
+                        <li><a href="#">Support</a></li>                    
+                    </ul>
+                </nav>
+            </header>
+            <h1><span>DISCORD</span></h1>
+            <input type="button" value="Download from Google Play">
+            <h2>Your place to talk</h2>
+            <p>Whether you're part of a school club,gaming group,worldwide art community,or just a handful of friends that want to spend time together, Discord makes it easy to talk every day and hang out more often</p>
+            <h2>An invite-only place with plenty of room to talk</h2>
+            <p>Discord servers are organized into topic based channels where you can collaborate,share,and just talk about your day without clogging up a group chat</p>
+            <h2>Where hanging out is easy</h2>
+            <p>Grab a seat in a voice channel when you're free.Friends in your server can see you're around and instantly pop in to talk without having to call</p>
+            <h2>From a few to a fandom</h2>
+            <p>Get a community of any size running with moderation tools and custom member access.Give members special powers, set up private channels, and more</p>
+            <h2>Reliable tech for staying close</h2>
+            <p>Low-latency voice and video feels like you're in the same room.Wave hello over video, watch friends stream their games, or gather up and have a drawing session with screen share</p>
+            <h3>Ready to start your journey?</h3>
+            <input type="button" value="Download from Google Play">
+        </section>
+        <section>
+
+        </section>
+    </div>
+</body>
+</html>
